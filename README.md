@@ -3,3 +3,7 @@ This is a ReactJS app that shows the price in CAD or crypto, using Axios to cons
 
 check api here:
 https://www.coingecko.com/en/api
+
+To run this app,type 
+
+# npm start
